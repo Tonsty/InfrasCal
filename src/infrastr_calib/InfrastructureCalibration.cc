@@ -2,7 +2,7 @@
 
 #include <boost/filesystem.hpp>
 #include <boost/make_shared.hpp>
-#include <iostream>
+#include <opencv2/imgproc/types_c.h>
 #include <opencv2/core/eigen.hpp>
 
 #include "../camera_models/CostFunctionFactory.h"

@@ -27,6 +27,7 @@
 #include "DUtils.h"
 #include <boost/dynamic_bitset.hpp>
 #include <vector>
+#include <opencv2/imgproc/types_c.h>
 
 #ifdef HAVE_OPENCV3
 #include <opencv2/core.hpp>
